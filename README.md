@@ -2,6 +2,6 @@
 
 Matery2 themes incluye :
 
-Matery2 theme:Original theme
+Matery2:Original theme
 
-Matery2 dark-theme:Dark version
+Matery2-dark:Dark version
